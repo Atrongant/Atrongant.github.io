@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/01/02/hello-world/"/>
-      <url>/2019/01/02/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[如何学习才高效]]></title>
+    <url>%2Fposts%2Fundefined%2F</url>
+    <content type="text"><![CDATA[12345重点： 1、知道一个新的概念后，立即去尝试 2、在尝试的过程中与已有的知识进行联系 3、走出舒适区，刻意练习，固化联系 4、坚持学习如何开始学习学习buff对于一个新的概念，成年人刚开始接触的时候会有抵触感、恐惧感。我们不像小孩子，对事物存有好奇心。我们的学习是为了学以致用、为了赚钱、为了装逼、或者……总是不可避免的带着功利性的目的——就让这份目的成为我们克服恐惧感抵触感的动力。设想一下，学习的成果会让我们走上人生顶峰，给自己进行积极的心理暗示，让自己能快速进入学习状态。做中学每个人都有学习的经验——钢琴、画画、电脑、做菜……所以，你想到了吗？当你接触到了一个新的知识概念后，最好的做法就是立即动手去尝试。任何一个比较复杂的学习项目，都是由大量的新概念组成。即使我们学习的是一座冰山，我们仍然需要先挖一块冰。产生联系学习一个个的新概念并不是机械的，我们需要动脑，把这个新知识点与我们已有的知识网络中的点进行联系，任何在你脑中已经存在的概念、观点、想法都可以。重要的是把新旧联系在一起。联系的方法包括：对比、归纳，不限于以上。不断迭代进行联系当我们在这个项目中学习一段时间后，对其中的概念有了理解，知其意，懂其用。我们需要的是将这些我们已经学习的知识与接下来还需要继续学习的东西进行联系。最好的做法是自己尝试去联系，不能假手于人。如果你实在找不出联系，也不用担心，说不定他们真的没联系，也说不定你的学习深度还不够。继续的学习下去，你总会找到联系。此时，你便可以去参考别人的经验，借鉴并优化自己的联系。刻意练习关于刻意练习，你需要知道的是：练习有目的，是为了测试你刚学习的知识点。练习需要反馈，反馈的形式包括：标准答案、进度条、他人评价、录制音频视频等，不限于以上。练习需要提出舒适区、进入学习区。在舒适区内进行简单的练习并不会提升自己，离开学习区进行高难度的练习可能会打击到你的自信。刚刚好的练习就是稍微努力一点、或者需要一点指导、改进一下弱点就可以完成练习。利用软件进行记忆我想大部分的人都会承认自己的记性并不好。刻意练习环节中找出的弱点，如果不多重复几次，我们也许就忘掉了。再次推荐一款软件Anki，此软件根据艾宾浩斯遗忘曲线，会在特定时间提醒你进行复习。不断地重复是一种非常有效的记忆方法。从整体到细节，在从细节到整体对整个学习项目有一个基本的了解的时候，我们需要重新深挖细节，此时我们需要更深入的指导、专业文档。坚持学习当你坚持这种闭环式的学习、每天都在进步，不觉间你就发现，学习对于你来说，是一件自然而然的事。这是人人都能获得的奖赏。结束语恭喜你，现在已经成为小白口中的大神。大神实现了，超神还会远吗？]]></content>
+      <categories>
+        <category>个人成长</category>
+      </categories>
+      <tags>
+        <tag>学习经验</tag>
+      </tags>
+  </entry>
 </search>
